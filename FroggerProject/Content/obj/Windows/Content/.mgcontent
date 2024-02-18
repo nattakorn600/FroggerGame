@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/project/FroggerProject/FroggerProject/Content/bg1.png</File>
+    <File>D:/project/FroggerProject/FroggerProject/Content/objP1.png</File>
+    <File>D:/project/FroggerProject/FroggerProject/Content/objP2.png</File>
+    <File>D:/project/FroggerProject/FroggerProject/Content/PlaAni.png</File>
+    <File>D:/project/FroggerProject/FroggerProject/Content/Water.png</File>
+    <File>D:/project/FroggerProject/FroggerProject/Content/sound/Dead.wav</File>
+    <File>D:/project/FroggerProject/FroggerProject/Content/sound/GameCheckPoint.wav</File>
+    <File>D:/project/FroggerProject/FroggerProject/Content/sound/GameEnd.wav</File>
+    <File>D:/project/FroggerProject/FroggerProject/Content/sound/GameOver.wav</File>
+    <File>D:/project/FroggerProject/FroggerProject/Content/sound/Jump.wav</File>
+    <File>D:/project/FroggerProject/FroggerProject/Content/sound/MusicGame.mp3</File>
+    <File>D:/project/FroggerProject/FroggerProject/Content/sound/Shoot.wav</File>
+    <File>D:/project/FroggerProject/FroggerProject/Content/frog1.png</File>
+    <File>D:/project/FroggerProject/FroggerProject/Content/Water2.png</File>
+    <File>D:/project/FroggerProject/FroggerProject/Content/bg2.png</File>
+    <File>D:/project/FroggerProject/FroggerProject/Content/PlaAni2.png</File>
+    <File>D:/project/FroggerProject/FroggerProject/Content/FontGameReady.spritefont</File>
+    <File>D:/project/FroggerProject/FroggerProject/Content/FontLoading.spritefont</File>
+    <File>D:/project/FroggerProject/FroggerProject/Content/Loading.png</File>
+    <File>D:/project/FroggerProject/FroggerProject/Content/Scene.png</File>
+    <File>D:/project/FroggerProject/FroggerProject/Content/backgroundLastBoss.png</File>
+    <File>D:/project/FroggerProject/FroggerProject/Content/AllColorTank2.png</File>
+    <File>D:/project/FroggerProject/FroggerProject/Content/gameFont.spritefont</File>
+    <File>D:/project/FroggerProject/FroggerProject/Content/gameFont2.spritefont</File>
+    <File>D:/project/FroggerProject/FroggerProject/Content/victory_v2.png</File>
+    <File>D:/project/FroggerProject/FroggerProject/Content/GameOver.png</File>
+    <File>D:/project/FroggerProject/FroggerProject/Content/GameOver2.jpg</File>
+    <File>D:/project/FroggerProject/FroggerProject/Content/victory.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

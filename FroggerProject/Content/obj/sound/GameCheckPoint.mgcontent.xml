@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Natta/OneDrive/เดสก์ท็อป/FroggerProject/FroggerProject/Content/sound/GameCheckPoint.wav</SourceFile>
+  <SourceTime>2018-04-17T14:00:12+07:00</SourceTime>
+  <DestFile>C:/Users/Natta/OneDrive/เดสก์ท็อป/FroggerProject/FroggerProject/Content/bin/sound/GameCheckPoint.xnb</DestFile>
+  <DestTime>2018-04-21T23:54:38.2546339+07:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2017-03-01T22:05:36+07:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2017-03-01T22:05:36+07:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

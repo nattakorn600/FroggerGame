@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>E:/FroggerProject/FroggerProject/Content/sound/MusicGame.mp3</SourceFile>
+  <SourceTime>2018-04-21T10:46:08+07:00</SourceTime>
+  <DestFile>E:/FroggerProject/FroggerProject/Content/bin/sound/MusicGame.xnb</DestFile>
+  <DestTime>2018-04-22T01:25:42.2620548+07:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2017-03-01T22:05:36+07:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2017-03-01T22:05:36+07:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>E:/FroggerProject/FroggerProject/Content/bin/sound/MusicGame.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>

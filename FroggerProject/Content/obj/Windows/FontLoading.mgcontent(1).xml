@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Natta/OneDrive/เดสก์ท็อป/FroggerProject/FroggerProject/Content/FontLoading.spritefont</SourceFile>
+  <SourceTime>2018-04-21T23:43:32.7428104+07:00</SourceTime>
+  <DestFile>C:/Users/Natta/OneDrive/เดสก์ท็อป/FroggerProject/FroggerProject/Content/bin/Windows/FontLoading.xnb</DestFile>
+  <DestTime>2018-04-22T00:16:37.7616468+07:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2017-03-01T22:05:36+07:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2017-03-01T22:05:36+07:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
